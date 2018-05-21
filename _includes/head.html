@@ -4,7 +4,8 @@
 		<meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
+<meta name="google-site-verification"
+             content="<meta name="google-site-verification" content="8hPf70BpRHk4sglj6i_A5vWk-mphWLzmFvs7PO-OD7A" />" />
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.data.settings.title | escape | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT NAME --', site.data.settings.client.name }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.data.settings.description | replace: '-- MARKET --', site.data.settings.client.market | replace: '-- CLIENT BRAND --', site.data.settings.client.brand }}
 	{% endif %}">
