@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weekly success tracker
-date: 2018-05-22 16:43:36
+date: 2018-05-22 16:43:00
 tags:
 excerpt:
-enclosure:
+enclosure: 'https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Weekly+success+tracker.mp4'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
