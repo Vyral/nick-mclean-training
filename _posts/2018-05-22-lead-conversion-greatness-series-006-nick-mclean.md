@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Lead Conversion Greatness Series 006 /Nick McLean
-date: 2018-05-22 16:37:21
+date: 2018-05-22 16:37:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+006+-Nick+McLean.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
