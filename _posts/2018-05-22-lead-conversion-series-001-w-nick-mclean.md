@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Lead Conversion Series 001 w/ Nick McLean
-date: 2018-05-22 16:13:38
+date: 2018-05-22 16:13:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+001+w-Nick+McLean.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
