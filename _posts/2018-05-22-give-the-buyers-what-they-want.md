@@ -1,10 +1,11 @@
 ---
 layout: post
 title: '"Give the buyers what they WANT!"'
-date: 2018-05-22 16:33:06
+date: 2018-05-22 16:33:00
 tags:
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+McLean/_Give+the+buyers+what+they+WANT%2521_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
