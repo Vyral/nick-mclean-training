@@ -13,7 +13,7 @@ pullquote: >-
   years because I want to give back to the Realtor community.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/mclean-youtube.jpg
 youtube_code: kMs1HA_RrMM
 ---
