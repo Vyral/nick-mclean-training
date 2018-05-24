@@ -2,31 +2,404 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>North Central Washington Real Estate Podcast with Nick Mclean</title>
-    <link>http://www.nickmcleanrealestate.com</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://www.nickmcleanrealestate.com"/>
-    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional North Central Washington Real Estate Agents.</description>
+    <link>http://RealEstateGreatness.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://RealEstateGreatness.com"/>
+    <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional Real Estate Agents.</description>
     <language>en</language>
-    <managingEditor>Nick Mclean</managingEditor>
-    <lastBuildDate>2018-05-21 10:24:47 -0500</lastBuildDate>
-    <media:copyright>Nick Mclean</media:copyright>
-    <media:thumbnail url="http://www.nickmcleanrealestate.com/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <managingEditor>Nick McLean</managingEditor>
+    <lastBuildDate>2018-05-24 10:24:52 -0500</lastBuildDate>
+    <media:copyright>Nick McLean</media:copyright>
+    <media:thumbnail url="http://RealEstateGreatness.com/img/podcast.jpg"/>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
       <itunes:email>Nick@NickMcLean.com</itunes:email>
-      <itunes:name>Nick Mclean</itunes:name>
+      <itunes:name>Nick McLean</itunes:name>
     </itunes:owner>
-    <itunes:author>Nick Mclean</itunes:author>
+    <itunes:author>Nick McLean</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://www.nickmcleanrealestate.com/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in North Central Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the North Central Washington Area Real Estate Market</itunes:subtitle>
-    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional North Central Washington Real Estate Agents.</itunes:summary>
+    <itunes:image href="http://RealEstateGreatness.com/img/podcast.jpg"/>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Real Estate Market</itunes:subtitle>
+    <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
-    <copyright>Nick Mclean</copyright>
-    <media:credit role="author">Nick Mclean</media:credit>
+      <item>
+        <title>Come to My First “Behind the N” Event This June</title>
+        <link>http://RealEstateGreatness.com/come-to-my-first-behind-the-n-event-this-june.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 12:32:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/You+have+to+plan+ahead+to+stay+ahead.mp4</guid>
+        <description>
+
+You are invited to my upcoming, live event “Behind the N” series. Whether you are a licensed real estate agent or not, I would love to see you there.   Do you wonder how I grew my team to sell more than a home a day for over two straight years? My team continues to grow, in fact, as we are on pace to sell over 400 homes this year. But, looking at who we are today does not tell you how we got here. This is why I am hosting this event—so I can show you how I went from selling a single home my first year to our current record. I will go over what we are doing right, and what we have done wrong over the years because I want to give back to the Realtor community. One of my passions in real estate is training. We train an hour a day Monday through Thursday and I look forward to it greatly because it is when I get to give back and see people grow, learn, and implement. I love seeing people implement new tools and strategies that have helped me in my real estate career.
+
+“I will go over what we are doing right, and what we have done wrong over the years because I want to give back to the Realtor community.” Many people have given to me and now it is time for me to give back. So, we are doing the “Behind the N” series where you can learn about our lessons learned and take away different nuggets you can implement into your own business in North Central Washington. We truly believe in an abundance mindset rather than a scarcity mindset, so the more we give to our local community or Realtors, the more homes we will have on the market and the more buyers that are going to be interested in real estate. The event is limited seating—only 39 people can attend. So, sign up today on Eventbrite for our June 21 for our first ever “Behind the N” series event. If you have any further questions about this event, please feel free to contact me by phone or email. I would be happy to answer your questions. Hope to see you in June!
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/You+have+to+plan+ahead+to+stay+ahead.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/You+have+to+plan+ahead+to+stay+ahead.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Join me this June for my live event, “Behind the N” series to learn what from my team.</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>Join me this June for my live event, “Behind the N” series to learn what from my team.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to handle the question "What do we do next?"</title>
+        <link>http://RealEstateGreatness.com/how-to-handle-the-question-what-do-we-do-next.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:45:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Realtors+How+to+handle+the+question+_What+do+we+do+next%253F_.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Realtors+How+to+handle+the+question+_What+do+we+do+next%253F_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Realtors+How+to+handle+the+question+_What+do+we+do+next%253F_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to handle it when a Parent or Friend calls or signs up on your website?</title>
+        <link>http://RealEstateGreatness.com/how-to-handle-it-when-a-parent-or-friend-calls-or-signs-up-on-your-website.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:44:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+handle+it+when+a+Parent+or+Friend+calls+or+signs+up+on+your+website%253F.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+handle+it+when+a+Parent+or+Friend+calls+or+signs+up+on+your+website%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+handle+it+when+a+Parent+or+Friend+calls+or+signs+up+on+your+website%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Weekly success tracker</title>
+        <link>http://RealEstateGreatness.com/weekly-success-tracker.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:43:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Weekly+success+tracker.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Weekly+success+tracker.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Weekly+success+tracker.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>You have to plan ahead to stay ahead</title>
+        <link>http://RealEstateGreatness.com/you-have-to-plan-ahead-to-stay-ahead.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:42:20 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lead Conversion Greatness Series 008/Nick McLean</title>
+        <link>http://RealEstateGreatness.com/lead-conversion-greatness-series-008nick-mclean.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:40:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+008-Nick+McLean.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+008-Nick+McLean.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+008-Nick+McLean.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Risk Vs. Return</title>
+        <link>http://RealEstateGreatness.com/risk-vs-return.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:38:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Risk+Vs.+Return+Understand+both+the+buyers+and+sellers+risk+profiles+and+help+mitigate%252C+share.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Risk+Vs.+Return+Understand+both+the+buyers+and+sellers+risk+profiles+and+help+mitigate%252C+share.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Risk+Vs.+Return+Understand+both+the+buyers+and+sellers+risk+profiles+and+help+mitigate%252C+share.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lead Conversion Greatness Series 006 /Nick McLean</title>
+        <link>http://RealEstateGreatness.com/lead-conversion-greatness-series-006-nick-mclean.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:37:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+006+-Nick+McLean.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+006+-Nick+McLean.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+006+-Nick+McLean.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Do you want to work with MORE preapproved buyers?</title>
+        <link>http://RealEstateGreatness.com/do-you-want-to-work-with-more-preapproved-buyers.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:36:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Do+you+want+to+work+with+MORE+preapproved+buyers%253F.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Do+you+want+to+work+with+MORE+preapproved+buyers%253F.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Do+you+want+to+work+with+MORE+preapproved+buyers%253F.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>"Give the buyers what they WANT!"</title>
+        <link>http://RealEstateGreatness.com/give-the-buyers-what-they-want.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:33:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/_Give+the+buyers+what+they+WANT%2521_.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/_Give+the+buyers+what+they+WANT%2521_.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/_Give+the+buyers+what+they+WANT%2521_.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>What I learned from a $25,000,000+ real estate investment fund owner</title>
+        <link>http://RealEstateGreatness.com/what-i-learned-from-a-25000000-real-estate-investment-fund-owner.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:25:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/What+I+learned+from+a+%252425%252C000%252C000%252B+real+estate+investment+fund+owner+.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/What+I+learned+from+a+%252425%252C000%252C000%252B+real+estate+investment+fund+owner+.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/What+I+learned+from+a+%252425%252C000%252C000%252B+real+estate+investment+fund+owner+.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lead Conversion Greatness Series 003 /Nick McLean</title>
+        <link>http://RealEstateGreatness.com/lead-conversion-greatness-series-003-nick-mclean.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:22:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+003+-Nick+McLean.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+003+-Nick+McLean.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Greatness+Series+003+-Nick+McLean.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lead Conversion Series 002 w/Nick McLean</title>
+        <link>http://RealEstateGreatness.com/lead-conversion-series-002-wnick-mclean.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:20:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+002+w-Nick+McLean+Newton%2527s+Law%252C+_For+every+action+there+is+an+equ.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+002+w-Nick+McLean+Newton%2527s+Law%252C+_For+every+action+there+is+an+equ.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+002+w-Nick+McLean+Newton%2527s+Law%252C+_For+every+action+there+is+an+equ.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Lead Conversion Series 001 w/ Nick McLean</title>
+        <link>http://RealEstateGreatness.com/lead-conversion-series-001-w-nick-mclean.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:13:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+001+w-Nick+McLean.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+001+w-Nick+McLean.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/Lead+Conversion+Series+001+w-Nick+McLean.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How to get your contingent offer accepted!</title>
+        <link>http://RealEstateGreatness.com/how-to-get-your-contingent-offer-accepted.html</link>
+        
+        <author>Nick McLean</author>
+        <pubDate>2018-05-22 11:07:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+get+your+contingent+offer+accepted.mp4</guid>
+        <description>
+
+“”
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+get+your+contingent+offer+accepted.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://RealEstateGreatness.com" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+McLean/How+to+get+your+contingent+offer+accepted.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+</itunes:subtitle>
+        <itunes:author>Nick McLean</itunes:author>
+        <itunes:summary>
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+    <copyright>Nick McLean</copyright>
+    <media:credit role="author">Nick McLean</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional North Central Washington Real Estate Agents.</media:description>
+    <media:description type="plain">If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Nick Mclean Real Estate Group - your professional Real Estate Agents.</media:description>
   </channel>
 </rss>
