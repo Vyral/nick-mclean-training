@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Can Our “Behind the N” Series Teach You?
-date: 2018-06-05 18:53:18
+date: 2018-06-05 18:53:00
 tags:
 excerpt: >-
   With our “Behind the N” series, you can learn from our past failures and
@@ -9,11 +9,11 @@ excerpt: >-
 enclosure:
 pullquote: >-
   We want to give back and share our failures and successes so you can learn
-  from from them.
+  from them.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/mcclean-youtube.jpg
 youtube_code: Ysu1D7ymPSE
 ---
 
@@ -21,7 +21,7 @@ youtube_code: Ysu1D7ymPSE
 
 You may have judgements against me or my team, but that’s okay because we’ve developed our “Behind the N” series which recounts our failures and successes over the past six years.
 
-I was once a struggling agent who sold just one home in 2008, but now our team sells over 400 homes per year. We want to give back and share our failures and successes so you can learn from from them and navigate your own career.
+I was once a struggling agent who sold just one home in 2008, but now our team sells over 400 homes per year. We want to give back and share our failures and successes so you can learn from them and navigate your own career.
 
 {% include pullquote.html %}
 
