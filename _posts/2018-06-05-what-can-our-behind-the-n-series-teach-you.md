@@ -19,6 +19,8 @@ youtube_code: Ysu1D7ymPSE
 
 {% include youtube.html %}
 
+**[SIGN UP FOR THE EVENT HERE](https://www.eventbrite.com/e/behind-the-n-tickets-46111800637)**
+
 You may have judgements against me or my team, but that’s okay because we’ve developed our “Behind the N” series which recounts our failures and successes over the past six years.
 
 I was once a struggling agent who sold just one home in 2008, but now our team sells over 400 homes per year. We want to give back and share our failures and successes so you can learn from them and navigate your own career.
