@@ -18,6 +18,8 @@ youtube_code: VESLwwpecKI
 
 {% include youtube.html %}
 
+**[SIGN UP FOR THE EVENT ](https://www.eventbrite.com/e/behind-the-n-tickets-46111800637)**
+
 Seats are filling up fast and I want to give you a sneak peak of our upcoming “Behind the N” series event at the Confluence Technology Center.
 
 **This is not a recruiting event.** It is an event to go over the principles, the systems, the tactics, and the strategies that we have used in our business to help us grow. You can take these lessons with you and implement them in your business right away and see your business grow.
