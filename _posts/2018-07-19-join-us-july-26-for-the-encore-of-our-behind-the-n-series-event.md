@@ -18,6 +18,8 @@ youtube_code: Jj3cvZpN5Mk
 
 {% include youtube.html %}
 
+**[SIGN UP FOR THE EVENT](https://www.eventbrite.com/e/real-estate-greatness-find-your-brand-w-jenn-tate-tickets-47694470445)**
+
 Thanks to the amazing initial reaction we got from our “Behind the N” series event, we’re bringing it back for an encore. And the best part? You’re invited.
 
 Last time, those who attended established some amazing relationships, so we can’t wait to see what new connections come out of our next event. **These connections are what help businesses grow, so mark your calendar for July 26, from 12 p.m. to 1:30 p.m.** You won’t want to miss this. &nbsp;
@@ -26,6 +28,6 @@ Last time, those who attended established some amazing relationships, so we can�
 
 Another reason we’re so excited for this event is that we’ll be joined, once again, by a special guest speaker. This time, our guest will be someone who I see as the most knowledgeable expert on branding around.
 
-Be on the lookout for more sneak peaks of what to expect from this great event. Until then, **be sure to register to reserve your place by clicking here.**
+Be on the lookout for more sneak peaks of what to expect from this great event. Until then, [**be sure to register to reserve your place by clicking here.**](https://www.eventbrite.com/e/real-estate-greatness-find-your-brand-w-jenn-tate-tickets-47694470445)
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to seeing you there.
