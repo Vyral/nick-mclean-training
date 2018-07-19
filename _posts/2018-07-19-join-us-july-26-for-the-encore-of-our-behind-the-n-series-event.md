@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us July 26 for the Encore of Our "Behind the N" Series Event
-date: 2018-07-19 14:20:52
+date: 2018-07-19 14:20:00
 tags:
 excerpt: >-
   Our last “Behind the N” series event was so successful that we’re bringing you
@@ -12,7 +12,7 @@ pullquote: We can’t wait to see what new connections come out of our next even
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mclean-email-4.jpg
+youtube_alternate_image: /uploads/mclean-youtube-4.jpg
 youtube_code: Jj3cvZpN5Mk
 ---
 
@@ -20,7 +20,7 @@ youtube_code: Jj3cvZpN5Mk
 
 Thanks to the amazing initial reaction we got from our “Behind the N” series event, we’re bringing it back for an encore. And the best part? You’re invited.
 
-Last time, those who attended established some amazing relationships, so we can’t wait to see what new connections come out of our next event. **These connections are what help businesses grow, so mark your calendar for July 26 from 12 p.m. to 1:30 p.m.** You won’t want to miss this. &nbsp;
+Last time, those who attended established some amazing relationships, so we can’t wait to see what new connections come out of our next event. **These connections are what help businesses grow, so mark your calendar for July 26 from 12 p.m. to 1:30 p.m.** You won’t want to miss this.  
 
 {% include pullquote.html %}
 
