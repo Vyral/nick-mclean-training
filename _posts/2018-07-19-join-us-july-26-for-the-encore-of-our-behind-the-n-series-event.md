@@ -20,7 +20,7 @@ youtube_code: Jj3cvZpN5Mk
 
 Thanks to the amazing initial reaction we got from our “Behind the N” series event, we’re bringing it back for an encore. And the best part? You’re invited.
 
-Last time, those who attended established some amazing relationships, so we can’t wait to see what new connections come out of our next event. **These connections are what help businesses grow, so mark your calendar for July 26 from 12 p.m. to 1:30 p.m.** You won’t want to miss this.  
+Last time, those who attended established some amazing relationships, so we can’t wait to see what new connections come out of our next event. **These connections are what help businesses grow, so mark your calendar for July 26, from 12 p.m. to 1:30 p.m.** You won’t want to miss this. &nbsp;
 
 {% include pullquote.html %}
 
